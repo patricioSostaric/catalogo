@@ -16,3 +16,4 @@ C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.exe
 C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.pdb
 C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.FrmCatalogo.resources
 C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.FrmNuevoArticulo.resources
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.FrmNuevaCategoria.resources

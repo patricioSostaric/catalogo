@@ -75,6 +75,9 @@
     <EmbeddedResource Include="FrmCatalogo.resx">
       <DependentUpon>FrmCatalogo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevaCategoria.resx">
+      <DependentUpon>FrmNuevaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmNuevoArticulo.resx">
       <DependentUpon>FrmNuevoArticulo.cs</DependentUpon>
     </EmbeddedResource>
