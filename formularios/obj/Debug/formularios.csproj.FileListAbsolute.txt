@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\formularios.exe.config
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\formularios.exe
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\formularios.pdb
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.csproj.CopyComplete
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.exe
+C:\Users\Usuario\Desktop\repo git\catalogo\formularios\obj\Debug\formularios.pdb
